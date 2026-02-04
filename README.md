@@ -6,7 +6,7 @@ Engineering Student & Aspiring Full Stack Developer
 
 Passionate about crafting modern web experiences with clean code and creative design.
 
-* 🌍  I'm based in Shivamogga
+* 🌍  I'm now currently based in Banglore
 * 🖥️  See my portfolio at [Personal Portfolio](http://localhost:5173/)
 * ✉️  You can contact me at [lohithashwa944@gmail.com](mailto:lohithashwa944@gmail.com)
 * 🧠  I'm currently learning Node.js and React
