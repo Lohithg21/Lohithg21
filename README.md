@@ -7,7 +7,7 @@ Engineering Student & Aspiring Full Stack Developer
 Passionate about crafting modern web experiences with clean code and creative design.
 
 * 🌍  I'm now currently based in Banglore
-* 🖥️  See my portfolio at [Personal Portfolio](https://lohithg21.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Personal Portfolio](https://lohithg.netlify.app/)
 * ✉️  You can contact me at [lohithashwa944@gmail.com](mailto:lohithashwa944@gmail.com)
 * 🧠  I'm currently learning Node.js and React
 * 👥  I'm looking to collaborate on Full Stack Development
